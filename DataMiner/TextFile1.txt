@@ -1,0 +1,53 @@
+﻿        private void SetUpLabels(double xAxisStartPointYcoordinate, double xAxisStartPointXcoordinate, double xAxisEndPointYcoordinate, double xAxisEndPointXcoordinate)
+        {
+            //sets the labels to all be visible
+            labelJanurary.Visible = true;
+            labelFeburary.Visible = true;
+            labelMarch.Visible = true;
+            labelApril.Visible = true;
+            labelMay.Visible = true;
+            labelJune.Visible = true;
+            labelJuly.Visible = true;
+            labelAugust.Visible = true;
+            labelSeptember.Visible = true;
+            labelOctober.Visible = true;
+            labelNovember.Visible = true;
+            labelDecember.Visible = true;
+            labelJanuraryValue.Visible = true;
+            labelFeburaryValue.Visible = true;
+            labelMarchValue.Visible = true;
+            labelAprilValue.Visible = true;
+            labelMayValue.Visible = true;
+            labelJuneValue.Visible = true;
+            labelJulyValue.Visible = true;
+            labelAugustValue.Visible = true;
+            labelSeptemberValue.Visible = true;
+            labelOctoberValue.Visible = true;
+            labelNovemberValue.Visible = true;
+            labelDecemberValue.Visible = true;
+
+            labelYAxisHeight.Visible = true;
+            labelMidYAxis.Visible = true;
+            //integer to hold number 5 to avoid use of magic numbers
+            int numberFive = 5;
+
+            double pos = 0.04;
+            double space = 0.08;
+            //sets the location of the twelve labels Janurary through to December so that they scale when the form is resized
+            labelJanurary.Location = new Point(Convert.ToInt32((Convert.ToInt32(xAxisEndPointXcoordinate - xAxisStartPointXcoordinate) * pos)) + Convert.ToInt32(xAxisStartPointXcoordinate), Convert.ToInt32(xAxisStartPointYcoordinate) + numberFive);
+
+
+            pos += space;
+
+            labelFeburary.Location = new Point(Convert.ToInt32((Convert.ToInt32(xAxisEndPointXcoordinate - xAxisStartPointXcoordinate) * 0.12)) + Convert.ToInt32(xAxisStartPointXcoordinate), Convert.ToInt32(xAxisStartPointYcoordinate) + numberFive);
+            labelMarch.Location = new Point(Convert.ToInt32((Convert.ToInt32(xAxisEndPointXcoordinate - xAxisStartPointXcoordinate) * 0.2)) + Convert.ToInt32(xAxisStartPointXcoordinate), Convert.ToInt32(xAxisStartPointYcoordinate) + numberFive);
+            labelApril.Location = new Point(Convert.ToInt32((Convert.ToInt32(xAxisEndPointXcoordinate - xAxisStartPointXcoordinate) * 0.28)) + Convert.ToInt32(xAxisStartPointXcoordinate), Convert.ToInt32(xAxisStartPointYcoordinate) + numberFive);
+            labelMay.Location = new Point(Convert.ToInt32((Convert.ToInt32(xAxisEndPointXcoordinate - xAxisStartPointXcoordinate) * 0.36)) + Convert.ToInt32(xAxisStartPointXcoordinate), Convert.ToInt32(xAxisStartPointYcoordinate) + numberFive);
+            labelJune.Location = new Point(Convert.ToInt32((Convert.ToInt32(xAxisEndPointXcoordinate - xAxisStartPointXcoordinate) * 0.44)) + Convert.ToInt32(xAxisStartPointXcoordinate), Convert.ToInt32(xAxisStartPointYcoordinate) + numberFive);
+            labelJuly.Location = new Point(Convert.ToInt32((Convert.ToInt32(xAxisEndPointXcoordinate - xAxisStartPointXcoordinate) * 0.52)) + Convert.ToInt32(xAxisStartPointXcoordinate), Convert.ToInt32(xAxisStartPointYcoordinate) + numberFive);
+            labelAugust.Location = new Point(Convert.ToInt32((Convert.ToInt32(xAxisEndPointXcoordinate - xAxisStartPointXcoordinate) * 0.6)) + Convert.ToInt32(xAxisStartPointXcoordinate), Convert.ToInt32(xAxisStartPointYcoordinate) + numberFive);
+            labelSeptember.Location = new Point(Convert.ToInt32((Convert.ToInt32(xAxisEndPointXcoordinate - xAxisStartPointXcoordinate) * 0.68)) + Convert.ToInt32(xAxisStartPointXcoordinate), Convert.ToInt32(xAxisStartPointYcoordinate) + numberFive);
+            labelOctober.Location = new Point(Convert.ToInt32((Convert.ToInt32(xAxisEndPointXcoordinate - xAxisStartPointXcoordinate) * 0.76)) + Convert.ToInt32(xAxisStartPointXcoordinate), Convert.ToInt32(xAxisStartPointYcoordinate) + numberFive);
+            labelNovember.Location = new Point(Convert.ToInt32((Convert.ToInt32(xAxisEndPointXcoordinate - xAxisStartPointXcoordinate) * 0.84)) + Convert.ToInt32(xAxisStartPointXcoordinate), Convert.ToInt32(xAxisStartPointYcoordinate) + numberFive);
+            labelDecember.Location = new Point(Convert.ToInt32((Convert.ToInt32(xAxisEndPointXcoordinate - xAxisStartPointXcoordinate) * 0.92)) + Convert.ToInt32(xAxisStartPointXcoordinate), Convert.ToInt32(xAxisStartPointYcoordinate) + numberFive);
+        }

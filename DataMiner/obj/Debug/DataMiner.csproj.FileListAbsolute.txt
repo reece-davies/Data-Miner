@@ -1,0 +1,168 @@
+c:\users\jkershawbrown\documents\visual studio 2015\Projects\DataMiner\DataMiner\bin\Debug\DataMiner.exe.config
+c:\users\jkershawbrown\documents\visual studio 2015\Projects\DataMiner\DataMiner\obj\Debug\DataMiner.csprojResolveAssemblyReference.cache
+c:\users\jkershawbrown\documents\visual studio 2015\Projects\DataMiner\DataMiner\obj\Debug\DataMiner.Properties.Resources.resources
+c:\users\jkershawbrown\documents\visual studio 2015\Projects\DataMiner\DataMiner\obj\Debug\DataMiner.csproj.GenerateResource.Cache
+c:\users\jkershawbrown\documents\visual studio 2015\Projects\DataMiner\DataMiner\bin\Debug\DataMiner.exe
+c:\users\jkershawbrown\documents\visual studio 2015\Projects\DataMiner\DataMiner\bin\Debug\DataMiner.pdb
+c:\users\jkershawbrown\documents\visual studio 2015\Projects\DataMiner\DataMiner\obj\Debug\DataMiner.exe
+c:\users\jkershawbrown\documents\visual studio 2015\Projects\DataMiner\DataMiner\obj\Debug\DataMiner.pdb
+c:\users\jkershawbrown\documents\visual studio 2015\Projects\DataMiner\DataMiner\obj\Debug\DataMiner.Main.resources
+C:\Users\jkershawbrown\Documents\DataMiner - Copy\DataMiner\bin\Debug\DataMiner.exe.config
+C:\Users\jkershawbrown\Documents\DataMiner - Copy\DataMiner\obj\Debug\DataMiner.pdb
+C:\Users\jkershawbrown\Downloads\DataMiner - Copy\DataMiner - Copy\DataMiner\bin\Debug\DataMiner.exe.config
+C:\Users\jkershawbrown\Downloads\DataMiner - Copy\DataMiner - Copy\DataMiner\obj\Debug\DataMiner.pdb
+C:\Users\jkershawbrown\Downloads\DataMiner - Copy\DataMiner - Copy\DataMiner\obj\Debug\DataMiner.csprojResolveAssemblyReference.cache
+C:\Users\jkershawbrown\Downloads\DataMiner - Copy\DataMiner - Copy\DataMiner\obj\Debug\DataMiner.Main.resources
+C:\Users\jkershawbrown\Downloads\DataMiner - Copy\DataMiner - Copy\DataMiner\obj\Debug\DataMiner.Properties.Resources.resources
+C:\Users\jkershawbrown\Downloads\DataMiner - Copy\DataMiner - Copy\DataMiner\obj\Debug\DataMiner.csproj.GenerateResource.Cache
+C:\Users\jkershawbrown\Downloads\DataMiner - Copy\DataMiner - Copy\DataMiner\bin\Debug\DataMiner.exe
+C:\Users\jkershawbrown\Downloads\DataMiner - Copy\DataMiner - Copy\DataMiner\bin\Debug\DataMiner.pdb
+C:\Users\jkershawbrown\Downloads\DataMiner - Copy\DataMiner - Copy\DataMiner\obj\Debug\DataMiner.exe
+C:\Users\jkershawbrown\Downloads\DataMiner - 15-12-2017\DataMiner - 15-12-2017\DataMiner - Copy\DataMiner\bin\Debug\DataMiner.exe.config
+C:\Users\jkershawbrown\Downloads\DataMiner - 15-12-2017\DataMiner - 15-12-2017\DataMiner - Copy\DataMiner\obj\Debug\DataMiner.exe
+C:\Users\jkershawbrown\Downloads\DataMiner - 15-12-2017\DataMiner - 15-12-2017\DataMiner - Copy\DataMiner\obj\Debug\DataMiner.pdb
+C:\Users\jkershawbrown\Downloads\DataMiner - 15-12-2017\DataMiner - 15-12-2017\DataMiner - Copy\DataMiner\bin\Debug\DataMiner.exe
+C:\Users\jkershawbrown\Downloads\DataMiner - 15-12-2017\DataMiner - 15-12-2017\DataMiner - Copy\DataMiner\bin\Debug\DataMiner.pdb
+C:\Users\jkershawbrown\Downloads\DataMiner - 15-12-2017\DataMiner - 15-12-2017\DataMiner - Copy\DataMiner\obj\Debug\DataMiner.csprojResolveAssemblyReference.cache
+C:\Users\jkershawbrown\Downloads\DataMiner - 15-12-2017\DataMiner - 15-12-2017\DataMiner - Copy\DataMiner\obj\Debug\DataMiner.Main.resources
+C:\Users\jkershawbrown\Downloads\DataMiner - 15-12-2017\DataMiner - 15-12-2017\DataMiner - Copy\DataMiner\obj\Debug\DataMiner.Properties.Resources.resources
+C:\Users\jkershawbrown\Downloads\DataMiner - 15-12-2017\DataMiner - 15-12-2017\DataMiner - Copy\DataMiner\obj\Debug\DataMiner.csproj.GenerateResource.Cache
+C:\Users\jkershawbrown\Documents\DataMiner - 17-12-2017\DataMiner - 15-12-2017\DataMiner - 15-12-2017\DataMiner - Copy\DataMiner\bin\Debug\DataMiner.exe.config
+C:\Users\jkershawbrown\Documents\DataMiner - 17-12-2017\DataMiner - 15-12-2017\DataMiner - 15-12-2017\DataMiner - Copy\DataMiner\obj\Debug\DataMiner.exe
+C:\Users\jkershawbrown\Documents\DataMiner - 17-12-2017\DataMiner - 15-12-2017\DataMiner - 15-12-2017\DataMiner - Copy\DataMiner\obj\Debug\DataMiner.pdb
+C:\Users\jkershawbrown\Documents\DataMiner - 17-12-2017 (2)\DataMiner - 17-12-2017 (2)\DataMiner\bin\Debug\DataMiner.exe.config
+C:\Users\jkershawbrown\Documents\DataMiner - 17-12-2017 (2)\DataMiner - 17-12-2017 (2)\DataMiner\obj\Debug\DataMiner.exe
+C:\Users\jkershawbrown\Documents\DataMiner - 17-12-2017 (2)\DataMiner - 17-12-2017 (2)\DataMiner\obj\Debug\DataMiner.pdb
+C:\Users\jkershawbrown\Documents\DataMiner - 17-12-2017 (2)\DataMiner - 17-12-2017 (2)\DataMiner\bin\Debug\DataMiner.exe
+C:\Users\jkershawbrown\Documents\DataMiner - 17-12-2017 (2)\DataMiner - 17-12-2017 (2)\DataMiner\bin\Debug\DataMiner.pdb
+C:\Users\jkershawbrown\Documents\DataMiner - 17-12-2017 (2)\DataMiner - 17-12-2017 (2)\DataMiner\obj\Debug\DataMiner.csprojResolveAssemblyReference.cache
+C:\Users\jkershawbrown\Documents\DataMiner - 17-12-2017 (2)\DataMiner - 17-12-2017 (2)\DataMiner\obj\Debug\DataMiner.Main.resources
+C:\Users\jkershawbrown\Documents\DataMiner - 17-12-2017 (2)\DataMiner - 17-12-2017 (2)\DataMiner\obj\Debug\DataMiner.Properties.Resources.resources
+C:\Users\jkershawbrown\Documents\DataMiner - 17-12-2017 (2)\DataMiner - 17-12-2017 (2)\DataMiner\obj\Debug\DataMiner.csproj.GenerateResource.Cache
+C:\Users\Jaime Kershaw Brown\Downloads\DataMiner - 17-12-2017\DataMiner - 17-12-2017 (2)\DataMiner - 17-12-2017 (2)\DataMiner\bin\Debug\DataMiner.exe.config
+C:\Users\Jaime Kershaw Brown\Downloads\DataMiner - 17-12-2017\DataMiner - 17-12-2017 (2)\DataMiner - 17-12-2017 (2)\DataMiner\obj\Debug\DataMiner.exe
+C:\Users\Jaime Kershaw Brown\Downloads\DataMiner - 17-12-2017\DataMiner - 17-12-2017 (2)\DataMiner - 17-12-2017 (2)\DataMiner\obj\Debug\DataMiner.pdb
+C:\Users\Jaime Kershaw Brown\Downloads\DataMiner - 17-12-2017\DataMiner - 17-12-2017 (2)\DataMiner - 17-12-2017 (2)\DataMiner\bin\Debug\DataMiner.exe
+C:\Users\Jaime Kershaw Brown\Downloads\DataMiner - 17-12-2017\DataMiner - 17-12-2017 (2)\DataMiner - 17-12-2017 (2)\DataMiner\bin\Debug\DataMiner.pdb
+C:\Users\Jaime Kershaw Brown\Downloads\DataMiner - 17-12-2017\DataMiner - 17-12-2017 (2)\DataMiner - 17-12-2017 (2)\DataMiner\obj\Debug\DataMiner.csprojResolveAssemblyReference.cache
+C:\Users\Jaime Kershaw Brown\Downloads\DataMiner - 17-12-2017\DataMiner - 17-12-2017 (2)\DataMiner - 17-12-2017 (2)\DataMiner\obj\Debug\DataMiner.Main.resources
+C:\Users\Jaime Kershaw Brown\Downloads\DataMiner - 17-12-2017\DataMiner - 17-12-2017 (2)\DataMiner - 17-12-2017 (2)\DataMiner\obj\Debug\DataMiner.Properties.Resources.resources
+C:\Users\Jaime Kershaw Brown\Downloads\DataMiner - 17-12-2017\DataMiner - 17-12-2017 (2)\DataMiner - 17-12-2017 (2)\DataMiner\obj\Debug\DataMiner.csproj.GenerateResource.Cache
+C:\Users\Jaime Kershaw Brown\Documents\DataMiner - 24-12-2017\DataMiner - 17-12-2017\DataMiner - 17-12-2017 (2)\DataMiner - 17-12-2017 (2)\DataMiner\bin\Debug\DataMiner.exe.config
+C:\Users\Jaime Kershaw Brown\Documents\DataMiner - 24-12-2017\DataMiner - 17-12-2017\DataMiner - 17-12-2017 (2)\DataMiner - 17-12-2017 (2)\DataMiner\obj\Debug\DataMiner.exe
+C:\Users\Jaime Kershaw Brown\Documents\DataMiner - 24-12-2017\DataMiner - 17-12-2017\DataMiner - 17-12-2017 (2)\DataMiner - 17-12-2017 (2)\DataMiner\obj\Debug\DataMiner.pdb
+C:\Users\Jaime Kershaw Brown\Documents\DataMiner - 24-12-2017\DataMiner - 17-12-2017\DataMiner - 17-12-2017 (2)\DataMiner - 17-12-2017 (2)\DataMiner\bin\Debug\DataMiner.exe
+C:\Users\Jaime Kershaw Brown\Documents\DataMiner - 24-12-2017\DataMiner - 17-12-2017\DataMiner - 17-12-2017 (2)\DataMiner - 17-12-2017 (2)\DataMiner\bin\Debug\DataMiner.pdb
+C:\Users\Jaime Kershaw Brown\Documents\DataMiner - 24-12-2017\DataMiner - 17-12-2017\DataMiner - 17-12-2017 (2)\DataMiner - 17-12-2017 (2)\DataMiner\obj\Debug\DataMiner.csprojResolveAssemblyReference.cache
+C:\Users\Jaime Kershaw Brown\Documents\DataMiner - 24-12-2017\DataMiner - 17-12-2017\DataMiner - 17-12-2017 (2)\DataMiner - 17-12-2017 (2)\DataMiner\obj\Debug\DataMiner.Main.resources
+C:\Users\Jaime Kershaw Brown\Documents\DataMiner - 24-12-2017\DataMiner - 17-12-2017\DataMiner - 17-12-2017 (2)\DataMiner - 17-12-2017 (2)\DataMiner\obj\Debug\DataMiner.Properties.Resources.resources
+C:\Users\Jaime Kershaw Brown\Documents\DataMiner - 24-12-2017\DataMiner - 17-12-2017\DataMiner - 17-12-2017 (2)\DataMiner - 17-12-2017 (2)\DataMiner\obj\Debug\DataMiner.csproj.GenerateResource.Cache
+C:\Users\Jaime Kershaw Brown\Documents\DataMiner - 30-12-2017\DataMiner\bin\Debug\DataMiner.exe.config
+C:\Users\Jaime Kershaw Brown\Documents\DataMiner - 30-12-2017\DataMiner\obj\Debug\DataMiner.exe
+C:\Users\Jaime Kershaw Brown\Documents\DataMiner - 30-12-2017\DataMiner\obj\Debug\DataMiner.pdb
+C:\Users\Jaime Kershaw Brown\Documents\DataMiner - 30-12-2017\DataMiner\bin\Debug\DataMiner.exe
+C:\Users\Jaime Kershaw Brown\Documents\DataMiner - 30-12-2017\DataMiner\bin\Debug\DataMiner.pdb
+C:\Users\Jaime Kershaw Brown\Documents\DataMiner - 30-12-2017\DataMiner\obj\Debug\DataMiner.csprojResolveAssemblyReference.cache
+C:\Users\Jaime Kershaw Brown\Documents\DataMiner - 30-12-2017\DataMiner\obj\Debug\DataMiner.Main.resources
+C:\Users\Jaime Kershaw Brown\Documents\DataMiner - 30-12-2017\DataMiner\obj\Debug\DataMiner.Properties.Resources.resources
+C:\Users\Jaime Kershaw Brown\Documents\DataMiner - 30-12-2017\DataMiner\obj\Debug\DataMiner.csproj.GenerateResource.Cache
+C:\Users\Jaime Kershaw Brown\Documents\DataMiner - 05-01-2018\DataMiner\bin\Debug\DataMiner.exe.config
+C:\Users\Jaime Kershaw Brown\Documents\DataMiner - 05-01-2018\DataMiner\obj\Debug\DataMiner.exe
+C:\Users\Jaime Kershaw Brown\Documents\DataMiner - 05-01-2018\DataMiner\obj\Debug\DataMiner.pdb
+C:\Users\Jaime Kershaw Brown\Documents\DataMiner - 05-01-2018\DataMiner\bin\Debug\DataMiner.exe
+C:\Users\Jaime Kershaw Brown\Documents\DataMiner - 05-01-2018\DataMiner\bin\Debug\DataMiner.pdb
+C:\Users\Jaime Kershaw Brown\Documents\DataMiner - 05-01-2018\DataMiner\obj\Debug\DataMiner.csprojResolveAssemblyReference.cache
+C:\Users\Jaime Kershaw Brown\Documents\DataMiner - 05-01-2018\DataMiner\obj\Debug\DataMiner.Main.resources
+C:\Users\Jaime Kershaw Brown\Documents\DataMiner - 05-01-2018\DataMiner\obj\Debug\DataMiner.Properties.Resources.resources
+C:\Users\Jaime Kershaw Brown\Documents\DataMiner - 05-01-2018\DataMiner\obj\Debug\DataMiner.csproj.GenerateResource.Cache
+C:\Users\jkershawbrown\Downloads\DataMiner - 09-01-2018\DataMiner - 09-01-2018\DataMiner\bin\Debug\DataMiner.exe.config
+C:\Users\jkershawbrown\Downloads\DataMiner - 09-01-2018\DataMiner - 09-01-2018\DataMiner\obj\Debug\DataMiner.exe
+C:\Users\jkershawbrown\Downloads\DataMiner - 09-01-2018\DataMiner - 09-01-2018\DataMiner\obj\Debug\DataMiner.pdb
+C:\Users\jkershawbrown\Downloads\DataMiner - 09-01-2018\DataMiner - 09-01-2018\DataMiner\bin\Debug\DataMiner.exe
+C:\Users\jkershawbrown\Downloads\DataMiner - 09-01-2018\DataMiner - 09-01-2018\DataMiner\bin\Debug\DataMiner.pdb
+C:\Users\jkershawbrown\Downloads\DataMiner - 09-01-2018\DataMiner - 09-01-2018\DataMiner\obj\Debug\DataMiner.csprojResolveAssemblyReference.cache
+C:\Users\jkershawbrown\Downloads\DataMiner - 09-01-2018\DataMiner - 09-01-2018\DataMiner\obj\Debug\DataMiner.Main.resources
+C:\Users\jkershawbrown\Downloads\DataMiner - 09-01-2018\DataMiner - 09-01-2018\DataMiner\obj\Debug\DataMiner.Properties.Resources.resources
+C:\Users\jkershawbrown\Downloads\DataMiner - 09-01-2018\DataMiner - 09-01-2018\DataMiner\obj\Debug\DataMiner.csproj.GenerateResource.Cache
+C:\Users\jkershawbrown\Downloads\DataMiner - 09-01-2018 v2.0\DataMiner - 09-01-2018\DataMiner\bin\Debug\DataMiner.exe.config
+C:\Users\jkershawbrown\Downloads\DataMiner - 09-01-2018 v2.0\DataMiner - 09-01-2018\DataMiner\obj\Debug\DataMiner.exe
+C:\Users\jkershawbrown\Downloads\DataMiner - 09-01-2018 v2.0\DataMiner - 09-01-2018\DataMiner\obj\Debug\DataMiner.pdb
+C:\Users\jkershawbrown\Downloads\DataMiner - 09-01-2018 v2.0\DataMiner - 09-01-2018\DataMiner\bin\Debug\DataMiner.exe
+C:\Users\jkershawbrown\Downloads\DataMiner - 09-01-2018 v2.0\DataMiner - 09-01-2018\DataMiner\bin\Debug\DataMiner.pdb
+C:\Users\jkershawbrown\Downloads\DataMiner - 09-01-2018 v2.0\DataMiner - 09-01-2018\DataMiner\obj\Debug\DataMiner.csprojResolveAssemblyReference.cache
+C:\Users\jkershawbrown\Downloads\DataMiner - 09-01-2018 v2.0\DataMiner - 09-01-2018\DataMiner\obj\Debug\DataMiner.Main.resources
+C:\Users\jkershawbrown\Downloads\DataMiner - 09-01-2018 v2.0\DataMiner - 09-01-2018\DataMiner\obj\Debug\DataMiner.Properties.Resources.resources
+C:\Users\jkershawbrown\Downloads\DataMiner - 09-01-2018 v2.0\DataMiner - 09-01-2018\DataMiner\obj\Debug\DataMiner.csproj.GenerateResource.Cache
+C:\Users\jkershawbrown\Downloads\DataMiner - 09-01-2018 v2.0\DataMiner - 09-01-2018 v2.0\DataMiner - 09-01-2018\DataMiner\bin\Debug\DataMiner.exe.config
+C:\Users\jkershawbrown\Downloads\DataMiner - 09-01-2018 v2.0\DataMiner - 09-01-2018 v2.0\DataMiner - 09-01-2018\DataMiner\obj\Debug\DataMiner.exe
+C:\Users\jkershawbrown\Downloads\DataMiner - 09-01-2018 v2.0\DataMiner - 09-01-2018 v2.0\DataMiner - 09-01-2018\DataMiner\obj\Debug\DataMiner.pdb
+C:\Users\jkershawbrown\Downloads\DataMiner - 09-01-2018 v2.0\DataMiner - 09-01-2018 v2.0\DataMiner - 09-01-2018\DataMiner\bin\Debug\DataMiner.exe
+C:\Users\jkershawbrown\Downloads\DataMiner - 09-01-2018 v2.0\DataMiner - 09-01-2018 v2.0\DataMiner - 09-01-2018\DataMiner\bin\Debug\DataMiner.pdb
+C:\Users\jkershawbrown\Downloads\DataMiner - 09-01-2018 v2.0\DataMiner - 09-01-2018 v2.0\DataMiner - 09-01-2018\DataMiner\obj\Debug\DataMiner.csprojResolveAssemblyReference.cache
+C:\Users\jkershawbrown\Downloads\DataMiner - 09-01-2018 v2.0\DataMiner - 09-01-2018 v2.0\DataMiner - 09-01-2018\DataMiner\obj\Debug\DataMiner.Main.resources
+C:\Users\jkershawbrown\Downloads\DataMiner - 09-01-2018 v2.0\DataMiner - 09-01-2018 v2.0\DataMiner - 09-01-2018\DataMiner\obj\Debug\DataMiner.Properties.Resources.resources
+C:\Users\jkershawbrown\Downloads\DataMiner - 09-01-2018 v2.0\DataMiner - 09-01-2018 v2.0\DataMiner - 09-01-2018\DataMiner\obj\Debug\DataMiner.csproj.GenerateResource.Cache
+C:\Users\jkershawbrown\Downloads\DataMiner - 09-01-2018 v3.0\DataMiner - 09-01-2018 v3.0\DataMiner\bin\Debug\DataMiner.exe.config
+C:\Users\jkershawbrown\Downloads\DataMiner - 09-01-2018 v3.0\DataMiner - 09-01-2018 v3.0\DataMiner\obj\Debug\DataMiner.exe
+C:\Users\jkershawbrown\Downloads\DataMiner - 09-01-2018 v3.0\DataMiner - 09-01-2018 v3.0\DataMiner\obj\Debug\DataMiner.pdb
+C:\Users\jkershawbrown\Downloads\DataMiner - 09-01-2018 v3.0\DataMiner - 09-01-2018 v3.0\DataMiner\bin\Debug\DataMiner.exe
+C:\Users\jkershawbrown\Downloads\DataMiner - 09-01-2018 v3.0\DataMiner - 09-01-2018 v3.0\DataMiner\bin\Debug\DataMiner.pdb
+C:\Users\jkershawbrown\Downloads\DataMiner - 09-01-2018 v3.0\DataMiner - 09-01-2018 v3.0\DataMiner\obj\Debug\DataMiner.csprojResolveAssemblyReference.cache
+C:\Users\jkershawbrown\Downloads\DataMiner - 09-01-2018 v3.0\DataMiner - 09-01-2018 v3.0\DataMiner\obj\Debug\DataMiner.Main.resources
+C:\Users\jkershawbrown\Downloads\DataMiner - 09-01-2018 v3.0\DataMiner - 09-01-2018 v3.0\DataMiner\obj\Debug\DataMiner.Properties.Resources.resources
+C:\Users\jkershawbrown\Downloads\DataMiner - 09-01-2018 v3.0\DataMiner - 09-01-2018 v3.0\DataMiner\obj\Debug\DataMiner.csproj.GenerateResource.Cache
+C:\Users\jkershawbrown\Downloads\DataMiner - 10-01-2018\DataMiner - 09-01-2018 v3.0\DataMiner\bin\Debug\DataMiner.exe.config
+C:\Users\jkershawbrown\Downloads\DataMiner - 10-01-2018\DataMiner - 09-01-2018 v3.0\DataMiner\obj\Debug\DataMiner.exe
+C:\Users\jkershawbrown\Downloads\DataMiner - 10-01-2018\DataMiner - 09-01-2018 v3.0\DataMiner\obj\Debug\DataMiner.pdb
+C:\Users\jkershawbrown\Downloads\DataMiner - 10-01-2018\DataMiner - 09-01-2018 v3.0\DataMiner\obj\Debug\DataMiner.csprojResolveAssemblyReference.cache
+C:\Users\jkershawbrown\Downloads\DataMiner - 10-01-2018\DataMiner - 09-01-2018 v3.0\DataMiner\obj\Debug\DataMiner.Main.resources
+C:\Users\jkershawbrown\Downloads\DataMiner - 10-01-2018\DataMiner - 09-01-2018 v3.0\DataMiner\obj\Debug\DataMiner.Properties.Resources.resources
+C:\Users\jkershawbrown\Downloads\DataMiner - 10-01-2018\DataMiner - 09-01-2018 v3.0\DataMiner\obj\Debug\DataMiner.csproj.GenerateResource.Cache
+C:\Users\jkershawbrown\Downloads\DataMiner - 10-01-2018\DataMiner - 09-01-2018 v3.0\DataMiner\bin\Debug\DataMiner.exe
+C:\Users\jkershawbrown\Downloads\DataMiner - 10-01-2018\DataMiner - 09-01-2018 v3.0\DataMiner\bin\Debug\DataMiner.pdb
+C:\Users\jkershawbrown\Downloads\DataMiner - 10-01-2018 v2.0\DataMiner - 10-01-2018 v2.0\DataMiner - 09-01-2018 v3.0\DataMiner\bin\Debug\DataMiner.exe.config
+C:\Users\jkershawbrown\Downloads\DataMiner - 10-01-2018 v2.0\DataMiner - 10-01-2018 v2.0\DataMiner - 09-01-2018 v3.0\DataMiner\bin\Debug\DataMiner.exe
+C:\Users\jkershawbrown\Downloads\DataMiner - 10-01-2018 v2.0\DataMiner - 10-01-2018 v2.0\DataMiner - 09-01-2018 v3.0\DataMiner\bin\Debug\DataMiner.pdb
+C:\Users\jkershawbrown\Downloads\DataMiner - 10-01-2018 v2.0\DataMiner - 10-01-2018 v2.0\DataMiner - 09-01-2018 v3.0\DataMiner\obj\Debug\DataMiner.csprojResolveAssemblyReference.cache
+C:\Users\jkershawbrown\Downloads\DataMiner - 10-01-2018 v2.0\DataMiner - 10-01-2018 v2.0\DataMiner - 09-01-2018 v3.0\DataMiner\obj\Debug\DataMiner.Main.resources
+C:\Users\jkershawbrown\Downloads\DataMiner - 10-01-2018 v2.0\DataMiner - 10-01-2018 v2.0\DataMiner - 09-01-2018 v3.0\DataMiner\obj\Debug\DataMiner.Properties.Resources.resources
+C:\Users\jkershawbrown\Downloads\DataMiner - 10-01-2018 v2.0\DataMiner - 10-01-2018 v2.0\DataMiner - 09-01-2018 v3.0\DataMiner\obj\Debug\DataMiner.csproj.GenerateResource.Cache
+C:\Users\jkershawbrown\Downloads\DataMiner - 10-01-2018 v2.0\DataMiner - 10-01-2018 v2.0\DataMiner - 09-01-2018 v3.0\DataMiner\obj\Debug\DataMiner.exe
+C:\Users\jkershawbrown\Downloads\DataMiner - 10-01-2018 v2.0\DataMiner - 10-01-2018 v2.0\DataMiner - 09-01-2018 v3.0\DataMiner\obj\Debug\DataMiner.pdb
+C:\Users\jkershawbrown\Downloads\DataMiner - 11-01-2018\DataMiner - 10-01-2018 v2.0\DataMiner - 09-01-2018 v3.0\DataMiner\bin\Debug\DataMiner.exe.config
+C:\Users\jkershawbrown\Downloads\DataMiner - 11-01-2018\DataMiner - 10-01-2018 v2.0\DataMiner - 09-01-2018 v3.0\DataMiner\obj\Debug\DataMiner.exe
+C:\Users\jkershawbrown\Downloads\DataMiner - 11-01-2018\DataMiner - 10-01-2018 v2.0\DataMiner - 09-01-2018 v3.0\DataMiner\obj\Debug\DataMiner.pdb
+C:\Users\jkershawbrown\Downloads\DataMiner - 11-01-2018\DataMiner - 10-01-2018 v2.0\DataMiner - 09-01-2018 v3.0\DataMiner\bin\Debug\DataMiner.exe
+C:\Users\jkershawbrown\Downloads\DataMiner - 11-01-2018\DataMiner - 10-01-2018 v2.0\DataMiner - 09-01-2018 v3.0\DataMiner\bin\Debug\DataMiner.pdb
+C:\Users\jkershawbrown\Downloads\DataMiner - 11-01-2018\DataMiner - 10-01-2018 v2.0\DataMiner - 09-01-2018 v3.0\DataMiner\obj\Debug\DataMiner.csprojResolveAssemblyReference.cache
+C:\Users\jkershawbrown\Downloads\DataMiner - 11-01-2018\DataMiner - 10-01-2018 v2.0\DataMiner - 09-01-2018 v3.0\DataMiner\obj\Debug\DataMiner.Main.resources
+C:\Users\jkershawbrown\Downloads\DataMiner - 11-01-2018\DataMiner - 10-01-2018 v2.0\DataMiner - 09-01-2018 v3.0\DataMiner\obj\Debug\DataMiner.Properties.Resources.resources
+C:\Users\jkershawbrown\Downloads\DataMiner - 11-01-2018\DataMiner - 10-01-2018 v2.0\DataMiner - 09-01-2018 v3.0\DataMiner\obj\Debug\DataMiner.csproj.GenerateResource.Cache
+C:\Users\jkershawbrown\Downloads\DataMiner - 11-01-2018 v2.0\DataMiner - 11-01-2018 v2.0\DataMiner - 10-01-2018 v2.0\DataMiner - 09-01-2018 v3.0\DataMiner\bin\Debug\DataMiner.exe.config
+C:\Users\jkershawbrown\Downloads\DataMiner - 11-01-2018 v2.0\DataMiner - 11-01-2018 v2.0\DataMiner - 10-01-2018 v2.0\DataMiner - 09-01-2018 v3.0\DataMiner\obj\Debug\DataMiner.exe
+C:\Users\jkershawbrown\Downloads\DataMiner - 11-01-2018 v2.0\DataMiner - 11-01-2018 v2.0\DataMiner - 10-01-2018 v2.0\DataMiner - 09-01-2018 v3.0\DataMiner\obj\Debug\DataMiner.pdb
+C:\Users\jkershawbrown\Downloads\DataMiner - 11-01-2018 v2.0\DataMiner - 11-01-2018 v2.0\DataMiner - 10-01-2018 v2.0\DataMiner - 09-01-2018 v3.0\DataMiner\bin\Debug\DataMiner.exe
+C:\Users\jkershawbrown\Downloads\DataMiner - 11-01-2018 v2.0\DataMiner - 11-01-2018 v2.0\DataMiner - 10-01-2018 v2.0\DataMiner - 09-01-2018 v3.0\DataMiner\bin\Debug\DataMiner.pdb
+C:\Users\jkershawbrown\Downloads\DataMiner - 11-01-2018 v2.0\DataMiner - 11-01-2018 v2.0\DataMiner - 10-01-2018 v2.0\DataMiner - 09-01-2018 v3.0\DataMiner\obj\Debug\DataMiner.csprojResolveAssemblyReference.cache
+C:\Users\jkershawbrown\Downloads\DataMiner - 11-01-2018 v2.0\DataMiner - 11-01-2018 v2.0\DataMiner - 10-01-2018 v2.0\DataMiner - 09-01-2018 v3.0\DataMiner\obj\Debug\DataMiner.Main.resources
+C:\Users\jkershawbrown\Downloads\DataMiner - 11-01-2018 v2.0\DataMiner - 11-01-2018 v2.0\DataMiner - 10-01-2018 v2.0\DataMiner - 09-01-2018 v3.0\DataMiner\obj\Debug\DataMiner.Properties.Resources.resources
+C:\Users\jkershawbrown\Downloads\DataMiner - 11-01-2018 v2.0\DataMiner - 11-01-2018 v2.0\DataMiner - 10-01-2018 v2.0\DataMiner - 09-01-2018 v3.0\DataMiner\obj\Debug\DataMiner.csproj.GenerateResource.Cache
+C:\Users\jkershawbrown\Documents\DataMiner - 14-01-2018 Final version\DataMiner\bin\Debug\DataMiner.exe.config
+C:\Users\jkershawbrown\Documents\DataMiner - 14-01-2018 Final version\DataMiner\obj\Debug\DataMiner.exe
+C:\Users\jkershawbrown\Documents\DataMiner - 14-01-2018 Final version\DataMiner\obj\Debug\DataMiner.pdb
+C:\Users\jkershawbrown\Documents\DataMiner - 14-01-2018 Final version\DataMiner\bin\Debug\DataMiner.exe
+C:\Users\jkershawbrown\Documents\DataMiner - 14-01-2018 Final version\DataMiner\bin\Debug\DataMiner.pdb
+C:\Users\jkershawbrown\Documents\DataMiner - 14-01-2018 Final version\DataMiner\obj\Debug\DataMiner.csprojResolveAssemblyReference.cache
+C:\Users\jkershawbrown\Documents\DataMiner - 14-01-2018 Final version\DataMiner\obj\Debug\DataMiner.Main.resources
+C:\Users\jkershawbrown\Documents\DataMiner - 14-01-2018 Final version\DataMiner\obj\Debug\DataMiner.Properties.Resources.resources
+C:\Users\jkershawbrown\Documents\DataMiner - 14-01-2018 Final version\DataMiner\obj\Debug\DataMiner.csproj.GenerateResource.Cache
+C:\Users\Reece Davies\Documents\Computer Science\SOFT152\Jaime Kershaw Brown coursework\Jaime Kershaw Brown DataMiner\DataMiner\bin\Debug\DataMiner.exe.config
+C:\Users\Reece Davies\Documents\Computer Science\SOFT152\Jaime Kershaw Brown coursework\Jaime Kershaw Brown DataMiner\DataMiner\bin\Debug\DataMiner.exe
+C:\Users\Reece Davies\Documents\Computer Science\SOFT152\Jaime Kershaw Brown coursework\Jaime Kershaw Brown DataMiner\DataMiner\bin\Debug\DataMiner.pdb
+C:\Users\Reece Davies\Documents\Computer Science\SOFT152\Jaime Kershaw Brown coursework\Jaime Kershaw Brown DataMiner\DataMiner\obj\Debug\DataMiner.csprojResolveAssemblyReference.cache
+C:\Users\Reece Davies\Documents\Computer Science\SOFT152\Jaime Kershaw Brown coursework\Jaime Kershaw Brown DataMiner\DataMiner\obj\Debug\DataMiner.Main.resources
+C:\Users\Reece Davies\Documents\Computer Science\SOFT152\Jaime Kershaw Brown coursework\Jaime Kershaw Brown DataMiner\DataMiner\obj\Debug\DataMiner.Properties.Resources.resources
+C:\Users\Reece Davies\Documents\Computer Science\SOFT152\Jaime Kershaw Brown coursework\Jaime Kershaw Brown DataMiner\DataMiner\obj\Debug\DataMiner.csproj.GenerateResource.Cache
+C:\Users\Reece Davies\Documents\Computer Science\SOFT152\Jaime Kershaw Brown coursework\Jaime Kershaw Brown DataMiner\DataMiner\obj\Debug\DataMiner.csproj.CoreCompileInputs.cache
+C:\Users\Reece Davies\Documents\Computer Science\SOFT152\Jaime Kershaw Brown coursework\Jaime Kershaw Brown DataMiner\DataMiner\obj\Debug\DataMiner.exe
+C:\Users\Reece Davies\Documents\Computer Science\SOFT152\Jaime Kershaw Brown coursework\Jaime Kershaw Brown DataMiner\DataMiner\obj\Debug\DataMiner.pdb

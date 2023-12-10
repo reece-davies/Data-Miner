@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DataMiner.DataManagement">
+    <Position X="0.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>IAABAAAAAAAgAAAAJAAAAAQAEIAAAACAAAAAgCAAEQA=</HashCode>
+      <FileName>DataManagement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DataMiner.Main">
+    <Position X="6.5" Y="0.5" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>JASABYKACDEkKQAgCQKAQgRSCAQCIpAIAkASASgCFAA=</HashCode>
+      <FileName>Main.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DataMiner.DataProcesser">
+    <Position X="2.5" Y="0.5" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAAAAAAACgAAUAAAABACBAAAgACAAAA=</HashCode>
+      <FileName>DataProcesser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
